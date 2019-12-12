@@ -17,4 +17,4 @@ We applied our data analysis on four aspects:
 
 Besides, based on data analysis of Grammy Rewards, we also constructed predictors and evaluate our models. 
 
-Detailed descriptions on what we have applied and what we have achieved through this project can be found in grammy_analysis.ipynb file.
+Detailed descriptions on what we have applied and what we have achieved through this project can be found in `grammy_analysis.ipynb` file.
